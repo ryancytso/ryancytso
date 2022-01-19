@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryancytso and my goal is to commit to somethign on gitub everyday
+- 👋 Hi, I’m @ryancytso and my goal is to commit to something on github everyday
 - 👀 I’m interested in machine learning, and how it can be implemented into healthcare
 - 🌱 I’m currently learning the basics of python and graph neural network
 - 💞️ I’m looking to collaborate on projects that push the boundaries of science and healthcare
