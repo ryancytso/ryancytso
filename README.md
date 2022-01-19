@@ -8,3 +8,8 @@
 ryancytso/ryancytso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Projects I'm Interested In
+Determined: Deep Learning Training [Platform](https://github.com/determined-ai/determined.git)
+
+
