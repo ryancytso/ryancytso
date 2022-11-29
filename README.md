@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ryancytso and my goal is to commit to something on github everyday
 - 👀 I’m interested in machine learning, and how it can be implemented into healthcare
-- 🌱 I’m currently learning the basics of python and graph neural network
-- 💞️ I’m looking to collaborate on projects that push the boundaries of science and healthcare
+- 🌱 I’m currently learning the basics of python, R, HTML/CSS, and machine learning
 - 📫 How to reach me, email ryancytso@gmail.com
 
 <!---
