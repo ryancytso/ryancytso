@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ryancytso and my goal is to commit to something on github everyday
-- 👀 I’m interested in machine learning, and how it can be implemented into healthcare
-- 🌱 I’m currently learning the basics of python, R, HTML/CSS, and machine learning
-- 📫 How to reach me, email ryancytso@gmail.com
+- 👋 Hi, I’m @ryancytso and I'm a student at McMaster University studying Biomedical Discovery and Commercialization.
+- 👀 I’m interested in machine learning, and how it can be leveraged in healthcare
+- 🌱 I’m currently learning python, R, HTML/CSS, and machine learning libraries such as scikit, and pytorch. 
+- 📫 How to reach me, email ryancytso@gmail.com.
 
 <!---
 ryancytso/ryancytso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
