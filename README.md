@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ryancytso and I'm a recent grad from McMaster University background in Biomedical Science and Commercialization.
-- 👀 I’m interested in machine learning, and how it can be leveraged in healthcare, biopharmaceutical and biotechnology space.
-- 🌱 I’m currently learning python, R, HTML/CSS, and machine learning libraries such as scikit, and pytorch. 
-- 📫 How to reach me, email ryan@viahealth.ca.
+- 👋 Hi, I’m @ryancytso, and I did my undergrad at McMaster University in Biomedical Discovery and Commercialization.
+Currently, doing a Master's of Biomedical Informatics at Queen's University, under Dr. David Berman 
+I’m interested in machine learning, data science, and how it can be leveraged in healthcare and the pharmaceutical space.
 
 <!---
 ryancytso/ryancytso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
