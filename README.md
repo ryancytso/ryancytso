@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryancytso, and I did my undergrad at McMaster University in Biomedical Discovery and Commercialization.
+👋 Hi, I’m @ryancytso, and I did my undergrad at McMaster University in Biomedical Discovery and Commercialization.
 Currently, doing a Master's of Biomedical Informatics at Queen's University, under Dr. David Berman 
 I’m interested in machine learning, data science, and how it can be leveraged in healthcare and the pharmaceutical space.
 
