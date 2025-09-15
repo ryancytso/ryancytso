@@ -7,9 +7,7 @@ ryancytso/ryancytso is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Projects I'm Interested In
-
-Determined: Deep Learning Training [Platform](https://github.com/determined-ai/determined.git)
+Projects I'm Interested In: Deep Learning Training [Platform](https://github.com/determined-ai/determined.git)
 AR+ML Cutting elements from Surroundings and Pasting [Them](https://github.com/cyrildiagne/ar-cutpaste.git)
 Radiology and [AI](https://github.com/McMasterAI/Radiology-and-AI.git) 
 
